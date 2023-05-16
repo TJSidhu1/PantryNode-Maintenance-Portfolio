@@ -11,7 +11,6 @@ The above pull request was approved and merged into main.
 The following commits were made in the above described pull request. 
 
 **Commit 1: https://github.com/ChicoState/PantryNode/pull/187/commits/8071564f86dc1bd9174f3aa99bd66aa8f9b4d5a7** 
-
 Description: Made changes to the following files:
 
  frontend/src/Components/Quagga/Header.tsx
@@ -23,15 +22,14 @@ Description: Made changes to the following files:
  frontend/src/styles/quagga.css
 
 **Commit 2: https://github.com/ChicoState/PantryNode/pull/187/commits/4a9e55b7832f4cc9edad3e38a5880c5fcf82cb71**
-
 Description: Made changes to the file frontend/src/pages/scanner.tsx
 
-**Commit 3: https://github.com/ChicoState/PantryNode/pull/187/commits/1439a56c4f228f2adc00ea8a2866cdc494553b21**
 
+**Commit 3: https://github.com/ChicoState/PantryNode/pull/187/commits/1439a56c4f228f2adc00ea8a2866cdc494553b21**
 Description: Made numerous changes to the file frontend/src/App.tsx, frontend/src/styles/quagga.css
 
-**Commit 4: https://github.com/ChicoState/PantryNode/pull/187/commits/e57167f389d40e699944fe3566097ae8507fd186**
 
+**Commit 4: https://github.com/ChicoState/PantryNode/pull/187/commits/e57167f389d40e699944fe3566097ae8507fd186**
 Description: Made numerous changes to the file frontend/src/__tests__/donor.test.tsx
 
 
@@ -41,7 +39,6 @@ Description: Made numerous changes to the file frontend/src/__tests__/donor.test
 The following commit was made for the above pull request.
 
 **Commit: https://github.com/ChicoState/PantryNode/commit/5e84775685e21b126b0e330e883ac60814538149**
-
 Description: Instead of rendering a view template, I modified the endpoint to return a JSON response. This involved removing the code that renders the view and replacing it with code that generates a JSON object or serializes our data into JSON format. 
 Changed the files index.js, feed.js for removing the code that renders the view and replacing it with code that generates a JSON object.
 I have also made changes to the files auth.js at that time in order to bypass the authentication for testing my changes.
@@ -49,13 +46,11 @@ I have also made changes to the files auth.js at that time in order to bypass th
 
 
 ### **3) Created the issue:  https://github.com/ChicoState/PantryNode/issues/130**
-
 Description: Replacing the rendering view template in backend with the JSON response. 
 
 
 
 ### **4) Reviews:**
-   
 The following reviews were added :
 
   **https://github.com/ChicoState/PantryNode/pull/110**
@@ -91,14 +86,12 @@ https://www.youtube.com/watch?v=kq6IhAZVNh8
 ### **Sprint 2: Weeks 8-9 (March 21 - April 3)**
 
 **Assigned myself to the issue: https://github.com/ChicoState/PantryNode/issues/67**
-
 Description: 
 Discussions with the frontend and backend team to collaborate and discuss about the technologies used in order to update the documentation.
 The discussion concluded with “Replacing Bootstrap with Tailwind CSS” ; after which I also started learning Tailwind CSS which is a “utility-first CSS framework” as per their own website. I learned various styling ways through Tailwind CSS.
 
 
 **Assigned myself to the issue: https://github.com/ChicoState/PantryNode/issues/68**
-
 Description: Indulged in the discussions with the other team members to discuss the layout and the road map for the issue and how to proceed. 
 
 
@@ -106,12 +99,10 @@ Description: Indulged in the discussions with the other team members to discuss 
 ### **Sprint 3: Weeks 10-11 (April 4 - 17)**
 
 **Reviewed the pull request :  https://github.com/ChicoState/PantryNode/pull/110**
-
 Description: This code aimed at removing mongoose: 5.9.11 from package.json as we are migrating to PostgreSQL #110.
 I reviewed the coding parts and tested if the server was running after this.
 
 **Created the issue:  https://github.com/ChicoState/PantryNode/issues/130**
-
 Description: Replacing the rendering view template in backend with the JSON response. 
 
 **Assigned myself to the issue: https://github.com/ChicoState/PantryNode/issues/102**
@@ -119,19 +110,15 @@ Description: Replacing the rendering view template in backend with the JSON resp
 **Reviewed :  https://github.com/ChicoState/PantryNode/pull/131#pullrequestreview-1380155984**
 
 **Contributions: https://github.com/ChicoState/PantryNode/pull/125**
-
 Description: Made contributions to the Sale page table issue.
 
 **Review and discussion : https://github.com/ChicoState/PantryNode/pull/153**
-
 Description: Reviewed this pull request which added the API Route for Feed closing.
 
 **Review and discussion : https://github.com/ChicoState/PantryNode/pull/122**
-
 Description: Reviewed and approved the above pull request wherein the README.md file was updated with latest technology stack.
 
 **Assigned myself to the issue: Reviewed: https://github.com/ChicoState/PantryNode/issues/143**
-
 Description: Discussed the layout of the expiry page with the team.
  
  
@@ -139,19 +126,16 @@ Description: Discussed the layout of the expiry page with the team.
 ### **Sprint 4: Weeks 12-13 (April 18 - May 1)**
 
 **Commits: https://github.com/ChicoState/PantryNode/commit/5e84775685e21b126b0e330e883ac60814538149**
-
 Description: Instead of rendering a view template, I modified the endpoint to return a JSON response. This involved removing the code that renders the view and replacing it with code that generates a JSON object or serializes our data into JSON format. 
 Changed the files index.js, feed.js for removing the code that renders the view and replacing it with code that generates a JSON object.
 I have also made changes to the files auth.js at that time in order to bypass the authentication for testing my changes.
 
 
 **Pull Request: https://github.com/ChicoState/PantryNode/pull/191**
-
 Description: This pull request was created for the issue 130 created by me  for replacing the rendering view template in backend with the JSON response in files. The code changes were made and tested but the pull request is not yet merged with the main.
 
 
 **Review and discussion : https://github.com/ChicoState/PantryNode/pull/196**
-
 Description: This pull request included a small change in the UI of the expiry page, I reviewed and approved the request after testing the code.
 
 
@@ -159,18 +143,15 @@ Description: This pull request included a small change in the UI of the expiry p
 ### **Sprint 5: Weeks 14-15 (May 2 - 15)**
 
 **Assigned myself to the issue:  https://github.com/ChicoState/PantryNode/issues/184**
-
 Description: Assigned myself to this issue as this was a high priority issue about the scanner page. The Quagga camera was using the camera even after the stop button was pressed. There were two buttons each for the start and stop button on the screen. The scanner was also not scanning the bar code correctly. 
 
 
 **Pull request https://github.com/ChicoState/PantryNode/pull/187**
-
 The following commits were made to resolve the above discussed issued.
 
 These commits included the changes regarding the toggling of the start and stop button. Also dealt with the functionality of the start and stop buttons. Removed the multiple start and stop buttons. Enabled the functionality of the Quagga Camera as it was not working correctly before. Enabled the performance of the bar code scanner. Also, added the header to the page.
 
 **Commit 1: https://github.com/ChicoState/PantryNode/pull/187/commits/8071564f86dc1bd9174f3aa99bd66aa8f9b4d5a7**
-
 Description: Made changes to the following files:
 
 frontend/src/Components/Quagga/Header.tsx
@@ -185,18 +166,14 @@ frontend/src/styles/quagga.css
 Description: Made changes to the file frontend/src/pages/scanner.tsx
 
 **Commit 3: https://github.com/ChicoState/PantryNode/pull/187/commits/1439a56c4f228f2adc00ea8a2866cdc494553b21**
-
 Description: Made numerous changes to the file frontend/src/App.tsx, frontend/src/styles/quagga.css
 
 **Commit 4: https://github.com/ChicoState/PantryNode/pull/187/commits/e57167f389d40e699944fe3566097ae8507fd186**
-
 Description: Made numerous changes to the file frontend/src/__tests__/donor.test.tsx
 
 
 **Assigned myself to the issue: https://github.com/ChicoState/PantryNode/issues/198**
-
 Description: Assigned myself to the above issue to improve the UI of the scanner page.
 
 **Reviewed : https://github.com/ChicoState/PantryNode/pull/224**
-
 Description: Reviewed and approved the above pull request to check the successful implementation of the expiry page.
