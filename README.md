@@ -129,7 +129,7 @@ Description: Reviewed this pull request which added the API Route for Feed closi
 
 Description: Reviewed and approved the above pull request wherein the README.md file was updated with latest technology stack.
 
-**Issue : Reviewed: https://github.com/ChicoState/PantryNode/issues/143**
+**Issue : https://github.com/ChicoState/PantryNode/issues/143**
 
 Description: Assigned myself to the issue and discussed the layout of the expiry page with the team.
  
