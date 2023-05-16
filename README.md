@@ -190,6 +190,7 @@ Description: Made numerous changes to the file frontend/src/__tests__/donor.test
 
 
 **Issue : https://github.com/ChicoState/PantryNode/issues/198**
+
 Description: Assigned myself to the above issue to improve the UI of the scanner page.
 
 **Code review: https://github.com/ChicoState/PantryNode/pull/224**
