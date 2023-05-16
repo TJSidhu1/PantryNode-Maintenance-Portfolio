@@ -1,4 +1,4 @@
-# PantryNode-Maintenance-Portfolio
+# PantryNode- Maintenance Portfolio
 Maintenance Portfolio for the project PantryNode
 
 ## **HIGHLIGHTS**
