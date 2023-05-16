@@ -50,7 +50,7 @@ I have also made changes to the files auth.js at that time in order to bypass th
 
 
 
-**4) Reviews: **
+**4) Reviews:**
    
     The following reviews were added :
 
@@ -68,7 +68,7 @@ I have also made changes to the files auth.js at that time in order to bypass th
 
 ## **TIMELINE**
 
-**Sprint 1: Weeks 6-7 (February 28 - March 20):**
+### **Sprint 1: Weeks 6-7 (February 28 - March 20):**
 
 **Assigned myself to the initial issue created by Kevin: https://github.com/ChicoState/PantryNode/issues/24**
 
@@ -77,12 +77,14 @@ Started with the discussions about the project with the classmates to discuss th
 Also started learning the technologies ReactJS and TypeScript from the online sources.
 
 Used the following videos to enhance my knowledge on the technologies:
+
 https://www.youtube.com/watch?v=Rh3tobg7hEo
+
 https://www.youtube.com/watch?v=kq6IhAZVNh8
  
  
  
-**Sprint 2: Weeks 8-9 (March 21 - April 3)**
+### **Sprint 2: Weeks 8-9 (March 21 - April 3)**
 
 **Assigned myself to the issue: https://github.com/ChicoState/PantryNode/issues/67**
 Description: 
@@ -95,7 +97,7 @@ Description: Indulged in the discussions with the other team members to discuss 
 
 
 
-**Sprint 3: Weeks 10-11 (April 4 - 17)**
+### **Sprint 3: Weeks 10-11 (April 4 - 17)**
 
 **Reviewed the pull request :  https://github.com/ChicoState/PantryNode/pull/110**
 Description: This code aimed at removing mongoose: 5.9.11 from package.json as we are migrating to PostgreSQL #110.
@@ -122,7 +124,7 @@ Description: Discussed the layout of the expiry page with the team.
  
  
 
-**Sprint 4: Weeks 12-13 (April 18 - May 1)**
+### **Sprint 4: Weeks 12-13 (April 18 - May 1)**
 
 **Commits: https://github.com/ChicoState/PantryNode/commit/5e84775685e21b126b0e330e883ac60814538149**
 
@@ -140,7 +142,7 @@ Description: This pull request included a small change in the UI of the expiry p
 
 
 
-**Sprint 5: Weeks 14-15 (May 2 - 15)**
+### **Sprint 5: Weeks 14-15 (May 2 - 15)**
 
 **Assigned myself to the issue:  https://github.com/ChicoState/PantryNode/issues/184**
 Description: Assigned myself to this issue as this was a high priority issue about the scanner page. The Quagga camera was using the camera even after the stop button was pressed. There were two buttons each for the start and stop button on the screen. The scanner was also not scanning the bar code correctly. 
