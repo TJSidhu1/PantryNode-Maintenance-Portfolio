@@ -13,9 +13,13 @@ The following commits were made in the above described pull request.
 **Commit 1: https://github.com/ChicoState/PantryNode/pull/187/commits/8071564f86dc1bd9174f3aa99bd66aa8f9b4d5a7** 
 
 Description: Made changes to the following files:
+
 frontend/src/Components/Quagga/Header.tsx
+
 frontend/src/Components/Quagga/index.tsx
+
 frontend/src/pages/donors.tsx
+
 frontend/src/styles/quagga.css
 
 **Commit 2: https://github.com/ChicoState/PantryNode/pull/187/commits/4a9e55b7832f4cc9edad3e38a5880c5fcf82cb71**
