@@ -10,7 +10,8 @@ Maintenance Portfolio for the project PantryNode
 
 The following commits were made in the above described pull request. 
 
-**Commit 1: https://github.com/ChicoState/PantryNode/pull/187/commits/8071564f86dc1bd9174f3aa99bd66aa8f9b4d5a7** 
+**Commit 1: https://github.com/ChicoState/PantryNode/pull/187/commits/8071564f86dc1bd9174f3aa99bd66aa8f9b4d5a7**
+
 Description: Made changes to the following files:
 
  frontend/src/Components/Quagga/Header.tsx
