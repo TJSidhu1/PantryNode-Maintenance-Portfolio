@@ -158,6 +158,7 @@ Description: This pull request included a small change in the UI of the expiry p
 ### **Sprint 5: Weeks 14-15 (May 2 - 15)**
 
 **Issue :  https://github.com/ChicoState/PantryNode/issues/184**
+
 Description: Assigned myself to this issue as this was a high priority issue about the scanner page. The Quagga camera was using the camera even after the stop button was pressed. There were two buttons each for the start and stop button on the screen. The scanner was also not scanning the bar code correctly. 
 
 
@@ -192,4 +193,5 @@ Description: Made numerous changes to the file frontend/src/__tests__/donor.test
 Description: Assigned myself to the above issue to improve the UI of the scanner page.
 
 **Code review: https://github.com/ChicoState/PantryNode/pull/224**
+
 Description: Reviewed and approved the above pull request to check the successful implementation of the expiry page.
