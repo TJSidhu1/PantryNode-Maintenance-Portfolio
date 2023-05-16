@@ -162,6 +162,7 @@ Description: Assigned myself to this issue as this was a high priority issue abo
 
 
 **Pull request https://github.com/ChicoState/PantryNode/pull/187**
+
 The following commits were made by me to resolve the above discussed issued.
 
 These commits included the changes regarding the toggling of the start and stop button. Also dealt with the functionality of the start and stop buttons. Removed the multiple start and stop buttons. Enabled the functionality of the Quagga Camera as it was not working correctly before. Enabled the performance of the bar code scanner. Also, added the header to the page.
