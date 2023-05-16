@@ -4,7 +4,7 @@ Maintenance Portfolio for the project PantryNode
 ## **HIGHLIGHTS**
 
 
-**1) Pull request: https://github.com/ChicoState/PantryNode/pull/187**
+### **1) Pull request: https://github.com/ChicoState/PantryNode/pull/187**
 
 **Description:** The Quagga camera was using the camera even after the stop button was pressed. There were two buttons each for the start and stop button on the screen. The scanner was also not scanning the bar code correctly. 
 The above pull request was approved and merged into main.
@@ -33,7 +33,7 @@ Description: Made numerous changes to the file frontend/src/__tests__/donor.test
 
 
 
-**2) Pull Request: https://github.com/ChicoState/PantryNode/pull/191 **    
+### **2) Pull Request: https://github.com/ChicoState/PantryNode/pull/191**    
 
 The following commit was made for the above pull request.
 
@@ -45,12 +45,12 @@ I have also made changes to the files auth.js at that time in order to bypass th
 
 
 
-**3) Created the issue:  https://github.com/ChicoState/PantryNode/issues/130**
+### **3) Created the issue:  https://github.com/ChicoState/PantryNode/issues/130**
      Description: Replacing the rendering view template in backend with the JSON response. 
 
 
 
-**4) Reviews:**
+### **4) Reviews:**
    
     The following reviews were added :
 
@@ -110,7 +110,7 @@ Description: Replacing the rendering view template in backend with the JSON resp
 
 **Reviewed :  https://github.com/ChicoState/PantryNode/pull/131#pullrequestreview-1380155984**
 
-**Contributions: https://github.com/ChicoState/PantryNode/pull/125 **
+**Contributions: https://github.com/ChicoState/PantryNode/pull/125**
 Description: Made contributions to the Sale page table issue.
 
 **Review and discussion : https://github.com/ChicoState/PantryNode/pull/153**
@@ -156,8 +156,11 @@ These commits included the changes regarding the toggling of the start and stop 
 **Commit 1: https://github.com/ChicoState/PantryNode/pull/187/commits/8071564f86dc1bd9174f3aa99bd66aa8f9b4d5a7** 
 Description: Made changes to the following files:
 frontend/src/Components/Quagga/Header.tsx
+
 frontend/src/Components/Quagga/index.tsx
+
 frontend/src/pages/donors.tsx
+
 frontend/src/styles/quagga.css
 
 **Commit 2: https://github.com/ChicoState/PantryNode/pull/187/commits/4a9e55b7832f4cc9edad3e38a5880c5fcf82cb71**
