@@ -14,13 +14,13 @@ The following commits were made in the above described pull request.
 
 Description: Made changes to the following files:
 
-frontend/src/Components/Quagga/Header.tsx
+ frontend/src/Components/Quagga/Header.tsx
 
-frontend/src/Components/Quagga/index.tsx
+ frontend/src/Components/Quagga/index.tsx
 
-frontend/src/pages/donors.tsx
+ frontend/src/pages/donors.tsx
 
-frontend/src/styles/quagga.css
+ frontend/src/styles/quagga.css
 
 **Commit 2: https://github.com/ChicoState/PantryNode/pull/187/commits/4a9e55b7832f4cc9edad3e38a5880c5fcf82cb71**
 
@@ -50,13 +50,13 @@ I have also made changes to the files auth.js at that time in order to bypass th
 
 ### **3) Created the issue:  https://github.com/ChicoState/PantryNode/issues/130**
 
-     Description: Replacing the rendering view template in backend with the JSON response. 
+Description: Replacing the rendering view template in backend with the JSON response. 
 
 
 
 ### **4) Reviews:**
    
-    The following reviews were added :
+The following reviews were added :
 
   **https://github.com/ChicoState/PantryNode/pull/110**
  
@@ -182,7 +182,6 @@ frontend/src/pages/donors.tsx
 frontend/src/styles/quagga.css
 
 **Commit 2: https://github.com/ChicoState/PantryNode/pull/187/commits/4a9e55b7832f4cc9edad3e38a5880c5fcf82cb71**
-
 Description: Made changes to the file frontend/src/pages/scanner.tsx
 
 **Commit 3: https://github.com/ChicoState/PantryNode/pull/187/commits/1439a56c4f228f2adc00ea8a2866cdc494553b21**
